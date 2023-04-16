@@ -3,7 +3,7 @@
 local colorSettings =
 {
     ["Main"] = {
-        ["HeaderColor"] = Color3.fromRGB(0, 168, 255),
+        ["HeaderColor"] = Color3.fromRGB(117, 0, 0),
         ["HeaderShadingColor"] = Color3.fromRGB(0, 151, 230),
         ["HeaderTextColor"] = Color3.fromRGB(47, 54, 64),
         ["MainBackgroundColor"] = Color3.fromRGB(47, 54, 64),
