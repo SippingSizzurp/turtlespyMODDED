@@ -376,7 +376,7 @@ HeaderTextLabel.Position = UDim2.new(-0.00507604145, 0, -0.202857122, 0)
 HeaderTextLabel.Size = UDim2.new(0, 215, 0, 29)
 HeaderTextLabel.ZIndex = 10
 HeaderTextLabel.Font = Enum.Font.SourceSans
-HeaderTextLabel.Text = "Turtle Spy"
+HeaderTextLabel.Text = "Remote Spy"
 HeaderTextLabel.TextColor3 = colorSettings["Main"]["HeaderTextColor"]
 HeaderTextLabel.TextSize = 17.000
 
