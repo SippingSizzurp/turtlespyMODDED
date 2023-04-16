@@ -4,8 +4,8 @@ local colorSettings =
 {
     ["Main"] = {
         ["HeaderColor"] = Color3.fromRGB(117, 0, 0),
-        ["HeaderShadingColor"] = Color3.fromRGB(0, 151, 230),
-        ["HeaderTextColor"] = Color3.fromRGB(47, 54, 64),
+        ["HeaderShadingColor"] = Color3.fromRGB(117, 0, 0),
+        ["HeaderTextColor"] = Color3.fromRGB(255, 255, 255),
         ["MainBackgroundColor"] = Color3.fromRGB(47, 54, 64),
         ["InfoScrollingFrameBgColor"] = Color3.fromRGB(47, 54, 64),
         ["ScrollBarImageColor"] = Color3.fromRGB(127, 143, 166)
