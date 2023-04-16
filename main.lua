@@ -3,8 +3,8 @@
 local colorSettings =
 {
     ["Main"] = {
-        ["HeaderColor"] = Color3.fromRGB(117, 0, 0),
-        ["HeaderShadingColor"] = Color3.fromRGB(92, 0, 0),
+        ["HeaderColor"] = Color3.fromRGB(69, 1, 79),
+        ["HeaderShadingColor"] = Color3.fromRGB(49, 1, 56),
         ["HeaderTextColor"] = Color3.fromRGB(255, 255, 255),
         ["MainBackgroundColor"] = Color3.fromRGB(47, 54, 64),
         ["InfoScrollingFrameBgColor"] = Color3.fromRGB(47, 54, 64),
@@ -376,7 +376,7 @@ HeaderTextLabel.Position = UDim2.new(-0.00507604145, 0, -0.202857122, 0)
 HeaderTextLabel.Size = UDim2.new(0, 215, 0, 29)
 HeaderTextLabel.ZIndex = 10
 HeaderTextLabel.Font = Enum.Font.SourceSans
-HeaderTextLabel.Text = "Remote Spy"
+HeaderTextLabel.Text = "The Great Old One"
 HeaderTextLabel.TextColor3 = colorSettings["Main"]["HeaderTextColor"]
 HeaderTextLabel.TextSize = 17.000
 
